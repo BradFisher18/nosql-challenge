@@ -11,3 +11,5 @@ Located within NoSQL_analysis_starter.ipynb, this section explores and outputs t
 * the top 5 establishments in terms of lowest hygiene score, with a rating value of 5 within close proximity to the new restaurant of Penang Flavours
 * the top 10 local authorities with the most establishments with a hygiene score of 0
 ## Running
+For this code to run successfully, python is required to be installed along with libraries such as; pandas, jupyter, pymongo. One method to install these programs is to download Anaconda - link below. To run this code, open the file within Jupyter, ensure that the input files are directed correctly and run!\
+Anaconda install: https://docs.anaconda.com/free/anaconda/install/
